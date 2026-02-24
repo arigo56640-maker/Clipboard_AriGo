@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(powershell:*)",
+      "Bash(pip:*)",
+      "Bash(findstr:*)",
+      "Bash(python -c:*)",
+      "Bash(python create_icon.py:*)",
+      "Bash(timeout 8 python:*)",
+      "Bash(START /B python main.py)",
+      "Bash(taskkill:*)",
+      "Bash(tasklist:*)"
+    ]
+  }
+}

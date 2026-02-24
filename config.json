@@ -1,0 +1,27 @@
+{
+    "hotkey": {
+        "modifiers": [
+            "ctrl",
+            "alt"
+        ],
+        "key": "v"
+    },
+    "max_entries": 5000,
+    "max_storage_mb": 500,
+    "max_age_days": 90,
+    "cleanup_interval_minutes": 30,
+    "auto_start": true,
+    "blacklisted_apps": [],
+    "deduplicate_consecutive": true,
+    "window": {
+        "width": 840,
+        "height": 1040,
+        "opacity": 0.97
+    },
+    "ui_scale": 100,
+    "ui": {
+        "font_family": "Segoe UI",
+        "font_size": 11,
+        "theme": "dark"
+    }
+}
